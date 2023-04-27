@@ -1,0 +1,150 @@
+/* CSS Document */
+
+/* Fonts
+font-family: 'Kanit', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'PT Sans Narrow', sans-serif;
+*/
+
+/* Colors 
+272727 - black
+DE9151 - very light orange
+4A188C - indigo
+F0F0F0 - gray
+FFFFFF - white
+
+*/
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Montserrat&family=PT+Sans+Narrow&display=swap');
+
+/* CSS RESET */
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 6%;
+    font-style: bold;
+    font-size: 3.5em;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+ font-size: 1.5em;
+    font-family: 'Kanit', sans-serif;
+}
+
+
+
+.creditsh3 h3{
+    padding-top: 10%;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.creditsh3 p{
+    text-align: center;
+}
+
+blockquote p{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.2em;
+    padding-top: 4%;
+}
+
+header{
+    background-color: #F0F0F0;
+    
+}
+
+#formtable {
+    background-color: #7B7B7B;
+}
+
+#taranimg img{
+    padding-left: 457px;
+}
+
+#cosmicimg img{
+    
+   float: left;
+}
+
+#cosmicimg p{
+     text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.2em;
+    padding-top: 2%;
+}
+
+#cartwheel img{
+    padding-left: 470px;
+}
+
+footer {
+    min-height: 150px;
+}
+
+main {
+    min-height: 500px;
+}
+
+#formtable{
+	
+}
+
+main img{
+	float: right;
+	padding-right: 600px;
+	
+}
+
+nav{
+ 
+}
+
+nav ul{
+    background-color: #272727;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+     color: #A573E7;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 1.5em;
+    padding-left: 2%;
+        padding-right: 2%;
+    
+}
+
+
+
+nav li:hover{
+    background-color: dimgrey;
+    color: black;
+}
+
+body {
+    
+}
+
+#logo img{
+margin-left: 39%;
+}
